@@ -64,6 +64,7 @@
     "react-calendar": "^3.5.0",
     "sass": "^1.39.0",
     "scss": "^0.2.4",
-    "time-number": "^1.1.0"
+    "time-number": "^1.1.0",
+    "cldr":"^7.1.1"
   }
 }
